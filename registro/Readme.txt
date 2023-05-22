@@ -1,0 +1,1 @@
+meter esta carpeta en la siguiente ruta C:\xampp\mysql\data
